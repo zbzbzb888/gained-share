@@ -1,0 +1,14 @@
+# 站点设置
+title: 我的个人博客
+description: 记录所学与思考的地方
+theme: jekyll-theme-share
+
+# 作者信息
+author:
+  name: zbzbzb
+  email: chaobohang@foxmail.com
+
+
+
+# 其他设置
+markdown: kramdown
